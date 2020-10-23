@@ -1,1 +1,3 @@
-Hello Git world!!
+i deleted the first line itself.
+ssecond demo between local and github 
+this is third line
